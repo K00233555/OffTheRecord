@@ -1,5 +1,5 @@
 ## A project using Code Igniter
-This project was 
+This project was written using the Code Igniter Model View Controller (MVC) Design Pattern. It is an improvement on the existing OffTheRecord Static site and utilizes a local MySQL database for records. Feel free to download and if any questions, please ask. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
